@@ -3,7 +3,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qwup2112/multi-delivery-robot-colab/blob/main/MultiDeliveryRobot_Colab.ipynb)
 
 A robot moves on a grid, picks up and delivers several parcels, and decides the order by itself.
-Everything is in one notebook, [`MultiDeliveryRobot_Colab.ipynb`](MultiDeliveryRobot_Colab.ipynb), written in Vietnamese and saved with its outputs.
+The code is in one notebook, [`MultiDeliveryRobot_Colab.ipynb`](MultiDeliveryRobot_Colab.ipynb), written in Vietnamese and saved with its outputs.
+The report is in English: [`Report_Topic13_EN_Overleaf.pdf`](Report_Topic13_EN_Overleaf.pdf) (IEEE format, 10 pages).
 
 ## How to run
 
