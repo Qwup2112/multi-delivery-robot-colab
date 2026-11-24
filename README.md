@@ -5,7 +5,6 @@
 A robot moves on a grid, picks up and delivers several parcels, and decides the order by itself.
 The code is in one notebook, [`MultiDeliveryRobot_Colab.ipynb`](MultiDeliveryRobot_Colab.ipynb), written in Vietnamese and saved with its outputs.
 The report is in English: [`Report_Topic13_EN_Overleaf.pdf`](Report_Topic13_EN_Overleaf.pdf) (IEEE format, 10 pages).
-The AI-use declaration is in Vietnamese: [PDF](Phieu_khai_bao_AI_Topic13.pdf), [Word](Phieu_khai_bao_AI_Topic13.docx).
 
 ## How to run
 
